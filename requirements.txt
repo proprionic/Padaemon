@@ -1,0 +1,2 @@
+pygame==2.6.1
+python-ydotool==1.1.1
