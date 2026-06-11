@@ -34,8 +34,6 @@ while True:
             joy.init()
 
         if event.type == pg.JOYBUTTONDOWN:
-
-            # CLICK NORMALI
             action = button_map.get(event.button)
             if action:
                 action()
