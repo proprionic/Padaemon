@@ -12,18 +12,18 @@ Padaemon is a solution to use a gamepad as a system-wide mouse input
 
 ## Requirements
 
----- System ----
-- Linux (Wayland)
-
----- Python ----
- 
+### ---- System ----
+- Linux (wayland)
+### ---- Python ----
 - pygame
-- pydotool 
-
+- pydotool
 just install them through the requirements.txt
+### --- Hardware ---
+- A gamepad (obv)
+
+
 
 ## TODO
-
 [] Make the scroll better (Make it smoother and based off of the position of the stick)
 [] Add Profiles (game, browse, ...)
 [] Add scroll with d-pad
